@@ -1,7 +1,7 @@
 shinyUI(fluidPage(
   theme = shinytheme("simplex"),
   # Application title
-  titlePanel("Assignment 3 - Raghuraman Srinivasan"),
+  titlePanel("Assessment of Caret Methods and Model Selection using Medical Data"),
   tabsetPanel(
     tabPanel(strong("Data"),
              verbatimTextOutput(outputId = "DataSummary"),
