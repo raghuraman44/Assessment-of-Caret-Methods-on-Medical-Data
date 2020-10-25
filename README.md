@@ -1,4 +1,4 @@
-# Assessment-of-Caret-Methods-on-Medical-Data
+# Assessment of Caret Methods on Medical Data
 
 The designed shiny app demonstrates the issue of candidate model selection and has been designed around the caret  package. This demonstrates the idea of "no-free lunch" - there is no method that works optimally in all situations.
 
